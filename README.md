@@ -77,10 +77,6 @@ Step 4: Run the game
 * Implemented save and load functionality through file handling
 * Developed understanding of 2D graphics and rendering
 
-## License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project with proper attribution.
-
 ## Repository Link
 GitHub Repository: [https://github.com/Muhammad-Ahmad-99/Chess_Game](https://github.com/Muhammad-Ahmad-99/Chess_Game)
 
